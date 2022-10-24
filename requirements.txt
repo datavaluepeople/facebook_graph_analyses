@@ -77,6 +77,8 @@ tomli==2.0.1
     #   build
     #   mypy
     #   pytest
+types-mock==4.0.15.2
+    # via -r requirements.in
 types-requests==2.28.11.2
     # via -r requirements.in
 types-setuptools==65.5.0.1
