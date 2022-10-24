@@ -18,3 +18,6 @@ This repository uses [`pip-tools`](https://github.com/jazzband/pip-tools)
 Using `make`:`make compile`
 
 To upgrade: `make compile_upgrade`
+
+## Linting
+`make` will run the linting.

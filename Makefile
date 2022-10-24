@@ -1,5 +1,7 @@
+.PHONY: all
 SHELL=/bin/bash
 
+all: lint
 
 compile:
 	pip-compile requirements.in
