@@ -14,3 +14,7 @@ types-setuptools
 
 # Click for the CLI interface
 click
+
+# FacebookGraph
+requests
+types-requests
