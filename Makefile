@@ -8,4 +8,4 @@ compile_upgrade:
 	pip-compile --upgrade requirements.in
 
 install:
-	pip install -r requirements.txt
+	pip install -r requirements.txt -e .

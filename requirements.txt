@@ -68,6 +68,8 @@ tomli==2.0.1
     #   build
     #   mypy
     #   pytest
+types-setuptools==65.5.0.1
+    # via -r requirements.in
 typing-extensions==4.4.0
     # via
     #   black

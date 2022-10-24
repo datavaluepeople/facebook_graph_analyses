@@ -8,3 +8,6 @@ pytest
 pytest-mock
 mock
 pip-tools
+
+# Stubs
+types-setuptools
