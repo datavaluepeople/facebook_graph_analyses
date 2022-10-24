@@ -1,0 +1,16 @@
+# Development
+isort
+black
+flake8
+pydocstyle
+mypy
+pytest
+pytest-mock
+mock
+pip-tools
+
+# Stubs
+types-setuptools
+
+# Click for the CLI interface
+click
