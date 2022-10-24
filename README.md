@@ -21,3 +21,8 @@ To upgrade: `make compile_upgrade`
 
 ## Make
 `make help` to see commands for `make`
+
+## CLI
+The main user interface for the package is a click CLI interface.
+Usage:
+`./cli`

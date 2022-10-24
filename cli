@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# A wrapper for the python cli.py script
+# Usage `./cli --help`
+
+python facebook_graph_analyses/cli.py $@
+
+
