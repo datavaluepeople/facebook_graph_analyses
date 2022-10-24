@@ -25,6 +25,6 @@ lint: ## run linting
 	black --check facebook_graph_analyses
 	mypy facebook_graph_analyses
 
-format:
-	isort phoenix tests
-	black phoenix tests
+format: ## format source code
+	isort facebook_graph_analyses
+	black facebook_graph_analyses
