@@ -19,5 +19,5 @@ Using `make`:`make compile`
 
 To upgrade: `make compile_upgrade`
 
-## Linting
-`make` will run the linting.
+## Make
+`make help` to see commands for `make`
