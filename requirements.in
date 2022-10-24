@@ -11,3 +11,6 @@ pip-tools
 
 # Stubs
 types-setuptools
+
+# Click for the CLI interface
+click
